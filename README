@@ -1,0 +1,28 @@
+#  Mall Customer Segmentation
+
+This project applies unsupervised machine learning techniques to segment mall customers based on demographic and spending behavior. The goal is to identify actionable customer groups for targeted marketing and business strategy.
+
+---
+
+##  Objectives
+- Perform exploratory data analysis (EDA)
+- Apply and compare different types of clustering techniques to segment customers
+- Visualize clusters and interpret business relevance
+- Label clusters based on age and spending patterns
+
+---
+
+##  Key Features
+- Correlation analysis for feature selection
+- Elbow method and silhouette score for optimal cluster count
+- Cluster labeling strategy based on feature distributions
+
+---
+
+##  Technologies Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Scikit-learn for clustering 
+- Jupyter Notebook for analysis
+- GitHub for version control and documentation
+
+---
